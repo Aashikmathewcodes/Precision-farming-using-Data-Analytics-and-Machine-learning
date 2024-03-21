@@ -1,7 +1,7 @@
 # Precision-farming-using-Data-Analytics-and-Machine-learning
 MIT License
 
-Copyright (c) 2023 Bharathwaj Nedoumaran
+Copyright (c) 2023 Aashik Mathew Prosper
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
